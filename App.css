@@ -1,0 +1,35 @@
+body {
+  background-color: #6a815d;
+  color:rgb(24, 6, 90);
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#op{
+  padding: 12px;
+  width: 200px;
+  margin: auto;
+  border: green;
+  border-radius: 4px;
+  text-align: center;
+}
+.button{
+  background-color: green;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  
+
+}
+
+#rr{
+  padding: 12px;
+  width: 200px;
+  margin: auto;
+  border: green;
+  border-radius: 4px;
+  text-align: center;
+
+}
